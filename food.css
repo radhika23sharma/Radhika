@@ -1,0 +1,305 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+ background-color: white;
+ color: black;
+ height: 80px;
+ padding: 5px;
+ width: 100%;
+ }
+
+#logo{
+    width: 150px;
+    height: 60px;
+    display: inline-block;
+    
+    margin: 5px;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 15px;
+    font-size: 25px; 
+    background-color: #5B270B;
+    color: white;
+    font-style: unset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 50%;
+
+
+    
+}
+
+a{
+    
+    color: black;
+    text-decoration: none; 
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 80px;
+    padding-left: 120px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-family:  proportional Sans Serif typeface Metropolis Regular;
+    cursor: pointer;
+}
+.div{
+    margin-top: 50px;
+    background-image: url(Mana\ —\ Manchester\,\ UK.jpg);
+    /* background-position: 400px; */
+    background-size: 350px;
+    background-attachment: fixed;
+    width: 100%;
+    height: 420px;
+    cursor: pointer;
+    
+
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 10px 5px 10px white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+     padding-top: 80px;
+     cursor: pointer;
+}
+
+.h{
+    text-align: center;
+    color: black;
+    text-shadow: 10px 5px 10px white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.food{
+    
+    background-color: rgb(249, 246, 252);
+    width: 100%;
+    height: 250px;
+    border: 2px solid white;
+
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+   margin: 8px;
+    
+    cursor: pointer;
+    /* border: 1px solid white; */
+    transition-duration: 1s;
+}
+.image:hover{
+    
+    box-shadow:  5px 5px 5px brown;
+}
+.hh{
+    text-align: center;
+    color: black;
+    text-shadow: 10px 10px 10px white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    cursor: pointer;
+}
+#brands{
+    background-color: white;
+    width: 100%;
+    height: 200px;
+    border: 2px solid white;
+    cursor: pointer;
+    
+}
+
+
+
+.image1{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+   margin: 10px;
+    padding-top: 10px;
+    border: 5px solid white;
+    cursor: pointer;
+}
+
+#order{
+    width: 100%;
+    height:400px;
+    background-image: url(Food\ background\ with\ silverware.webp);
+    background-size: cover;
+    cursor: pointer;
+    background-attachment: fixed;
+
+}
+.button{
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+.hhh{
+    text-align: left;
+    padding-left: 60px;
+    margin-bottom: 20px;
+    color: black;
+    text-shadow: 10px 10px 10px white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    cursor: pointer;
+}
+#foodname{
+
+  width: 100%;
+  height: 500px;
+  background-color: aqua;
+  cursor: pointer;
+  background-color:  rgb(249, 246, 252);
+}
+
+.food1{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+.food2{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+.food3{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+.food4{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+    
+}
+ 
+.food5{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+.food6{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+    cursor: pointer;
+}
+
+.indian1{
+    
+    width: 350px;
+    height: 350px;
+    padding-left: 50px;
+    margin-left: 40px;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.indian2{
+    
+    width: 350px;
+    height: 350px;
+    padding-left: 30px;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.indian3{
+    
+    width: 350px;
+    height: 350px;
+    padding-left: 30px ;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+.indian4{
+    
+    width: 350px;
+    height: 350px;
+    padding-left: 50px;
+    margin-left: 40px;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.indian5{
+    width: 350px;
+    height: 350px;
+    padding-left: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.indian6{
+    width: 350px;
+    height: 350px;
+    padding-left: 30px;
+    
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+ 
+
+.button1{
+    text-align: center;
+     margin-left: 600px;
+     padding-bottom: 20px;
+    padding: 10px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: rgb(119, 18, 18);
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
+
+
+  
